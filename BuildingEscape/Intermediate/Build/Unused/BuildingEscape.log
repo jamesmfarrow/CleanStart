@@ -1,12 +1,11 @@
 ﻿  Compiling game modules for hot reload
   Parsing headers for BuildingEscapeEditor
     Running UnrealHeaderTool "C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for BuildingEscapeEditor in 3.1470435 seconds
+  Reflection code generated for BuildingEscapeEditor in 3.3214057 seconds
   Performing 3 actions (2 in parallel)
   Grabber.cpp
-  [2/3] Link UE4Editor-BuildingEscape-5808.dll
-  [3/3] Link UE4Editor-BuildingEscape-5808.lib
-     Creating library C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5808.lib and object C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5808.exp
-     Creating library C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5808.suppressed.lib and object C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5808.suppressed.exp
-  Deploying BuildingEscapeEditor Win64 Development...
-  Total build time: 9.10 seconds (Local executor: 2.66 seconds)
+C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(80): error C2059: syntax error: ';'
+C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(80): error C2059: syntax error: ')'
+ERROR : UBT error : Failed to produce item: C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-4438.dll
+  Total build time: 8.70 seconds (Local executor: 0.00 seconds)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.15\Engine\Build\BatchFiles\Build.bat" BuildingEscapeEditor Win64 Development "C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\BuildingEscape.uproject" -waitmutex" exited with code 5. Please verify that you have sufficient rights to run this command.
