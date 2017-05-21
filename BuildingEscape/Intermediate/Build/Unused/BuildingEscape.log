@@ -1,4 +1,15 @@
 ﻿  Compiling game modules for hot reload
-  Target is up to date
+  Parsing headers for BuildingEscapeEditor
+    Running UnrealHeaderTool "C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\BuildingEscape.uproject" "C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BuildingEscapeEditor in 4.3600321 seconds
+  Performing 4 actions (2 in parallel)
+  Grabber.cpp
+  BuildingEscape.generated.cpp
+C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Source\BuildingEscape\Grabber.cpp(68): warning C4996: 'UPhysicsHandleComponent::GrabComponent': Please use GrabComponentAtLocation or GrabComponentAtLocationWithRotation Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Program Files\Epic Games\UE_4.15\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h(89): note: see declaration of 'UPhysicsHandleComponent::GrabComponent'
+  [3/4] Link UE4Editor-BuildingEscape-4439.dll
+  [4/4] Link UE4Editor-BuildingEscape-4439.lib
+     Creating library C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4439.lib and object C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4439.exp
+     Creating library C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4439.suppressed.lib and object C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4439.suppressed.exp
   Deploying BuildingEscapeEditor Win64 Development...
-  Total build time: 3.17 seconds (NoActionsToExecute executor: 0.00 seconds)
+  Total build time: 162.06 seconds (Local executor: 152.46 seconds)
