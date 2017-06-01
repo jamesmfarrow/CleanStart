@@ -63,7 +63,7 @@
 "C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
 "C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
 "C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
-/OUT:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-658.dll"
-/IMPLIB:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-658.suppressed.lib"
-/PDB:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-658.pdb"
+/OUT:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-988.dll"
+/IMPLIB:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-988.suppressed.lib"
+/PDB:"C:\Users\James Farrow\Documents\MyRepo\BuildingEscape\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-988.pdb"
 /ignore:4078
